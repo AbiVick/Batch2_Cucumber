@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2345" started-at="2022-12-21T04:49:05 PST" finished-at="2022-12-21T04:49:07 PST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2345" started-at="2022-12-21T04:49:05 PST" finished-at="2022-12-21T04:49:07 PST">
+      <class name="aPITesting.GET_LISTUSERS_APITest">
+        <test-method status="PASS" signature="verifyListUserTest()[pri:0, instance:aPITesting.GET_LISTUSERS_APITest@16aa0a0a]" name="verifyListUserTest" duration-ms="2271" started-at="2022-12-21T04:49:05 PST" finished-at="2022-12-21T04:49:07 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyListUserTest -->
+      </class> <!-- aPITesting.GET_LISTUSERS_APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
